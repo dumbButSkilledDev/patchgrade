@@ -10,4 +10,4 @@ Research of downgrading rcm patched eristras and other non rcm exploitable devic
 This is not a utility<br>
 I may develop a downgrade utility, if this research comes out successful.
 # TODO
-- manualy load boot0, via a bct
+- manualy load boot0
